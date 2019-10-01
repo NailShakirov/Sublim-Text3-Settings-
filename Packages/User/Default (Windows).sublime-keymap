@@ -1,0 +1,22 @@
+[
+	
+    { "keys": ["ctrl+0"],
+      "command": "repl_open",
+      "args": {"cmd": ["python", "-i","-u", "$file_basename"], "cwd": "$file_path", "encoding": "utf8", "extend_env": {"PYTHONIOENCODING": "utf-8"}, "external_id": "python", "syntax": "Packages/Python/Python.tmLanguage", "type": "subprocess"}
+	 },
+
+
+
+//GIT
+	 { "keys": ["alt+c"], "command": "gs_quick_stage_current_file_commit" },
+   { "keys": ["alt+p"], "command": "gs_push_to_branch" },
+  //{ "keys": ["alt+b"], "command": "gs_show_branch" },
+  //{ "keys": ["alt+r"], "command": "gs_show_rebase" },
+   { "keys": ["alt+h"], "command": "gs_log_graph" },
+ // { "keys": ["alt+h"], "command": "gs_log_graph", "args": { "all_branches": true } }
+	
+
+]
+
+
+

@@ -1,0 +1,10 @@
+// Settings in here override those in "GitSavvy/GitSavvy.sublime-settings",
+
+{
+
+	"git_path": "C:\\Program Files\\Git\\bin\\git.exe",
+	//"git_path": "C:\\Program Files\\mingw64\\bin\\git.exe",
+	
+
+
+}

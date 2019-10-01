@@ -1,0 +1,17 @@
+{
+	"bootstrapped": true,
+	"in_process_packages":
+	[
+	],
+	"installed_packages":
+	[
+		"AutoHotkey",
+		"ayu",
+		"Emmet",
+		"GitSavvy",
+		"Package Control",
+		"SublimeGit",
+		"SublimeREPL",
+		"Theme - Spacegray"
+	]
+}
