@@ -1,54 +1,23 @@
 {
 	"folder_history":
 	[
-		"/C/Users/Наиль Шакиров/Desktop/My first Site",
-		"/C/Users/Наиль Шакиров/Desktop/Обзор латех",
-		"/C/Users/Наиль Шакиров/Desktop/Анкетирование",
-		"/C/Users/Наиль Шакиров/Desktop/Новая папка (8)",
-		"/C/Users/Наиль Шакиров/AppData/Local/Programs/Python/Python37-32/My scripts/MyMath_Python",
-		"/C/Users/Наиль Шакиров/Desktop/Новая папка (3)",
-		"/C/Users/Наиль Шакиров/Desktop/Киномонстр"
 	],
-	"last_version": 3207,
-	"last_window_id": 58,
+	"last_version": 3211,
+	"last_window_id": 3,
 	"log_indexing": false,
 	"settings":
 	{
-		"new_window_height": 569.0,
+		"new_window_height": 504.0,
 		"new_window_settings":
 		{
 			"auto_complete":
 			{
 				"selected_items":
 				[
-					[
-						"h",
-						"h2\tTag"
-					],
-					[
-						"me",
-						"meta\tTag"
-					]
 				]
 			},
 			"build_system_choices":
 			[
-				[
-					[
-						[
-							"Packages/Python/Python.sublime-build",
-							""
-						],
-						[
-							"Packages/Python/Python.sublime-build",
-							"Syntax Check"
-						]
-					],
-					[
-						"Packages/Python/Python.sublime-build",
-						""
-					]
-				]
 			],
 			"build_varint": "",
 			"command_palette":
@@ -57,261 +26,14 @@
 				"last_filter": "",
 				"selected_items":
 				[
-					[
-						"git pu",
-						"git: push to branch name"
-					],
-					[
-						"git pus",
-						"git: push"
-					],
-					[
-						"git st",
-						"git: status"
-					],
-					[
-						"git p",
-						"git: push"
-					],
-					[
-						"git satt",
-						"git: status"
-					],
-					[
-						"git push",
-						"git: push"
-					],
-					[
-						"remote ",
-						"Git: Remote"
-					],
-					[
-						"git: st",
-						"git: status"
-					],
-					[
-						"git: pu",
-						"git: push"
-					],
-					[
-						"git: p",
-						"Git: Push"
-					],
-					[
-						"git savvy",
-						"Preferences: GitSavvy Settings"
-					],
-					[
-						"gitsav",
-						"GitSavvy: view recorded log"
-					],
-					[
-						"gitsa",
-						"GitSavvy: enable logging"
-					],
-					[
-						"gitS",
-						"GitSavvy: enable logging"
-					],
-					[
-						"git ",
-						"Git: Pull"
-					],
-					[
-						"git P",
-						"Git: Push"
-					],
-					[
-						"Package Control: in",
-						"Package Control: Install Package"
-					],
-					[
-						"Package Control: ins",
-						"Package Control: Install Package"
-					],
-					[
-						"gits",
-						"GitSavvy: view recorded log"
-					],
-					[
-						"git h",
-						"git: push"
-					],
-					[
-						"gitsavvy ",
-						"GitSavvy: enable logging"
-					],
-					[
-						"git b",
-						"git: branch"
-					],
-					[
-						"git remo",
-						"git: remote add"
-					],
-					[
-						"git s",
-						"git: status"
-					],
-					[
-						"git pull",
-						"git: pull"
-					],
-					[
-						"get push",
-						"git: push to existing branch"
-					],
-					[
-						"git i",
-						"git: init"
-					],
-					[
-						"git pul",
-						"git: pull from branch"
-					],
-					[
-						"git merge",
-						"git: merge"
-					],
-					[
-						"git me",
-						"git: merge"
-					],
-					[
-						"git qu",
-						"git: quick stage current file and commit"
-					],
-					[
-						"Package Control: re",
-						"Package Control: Remove Package"
-					],
-					[
-						"git gitk",
-						"Git: Gitk"
-					],
-					[
-						"Gitk",
-						"Git: Gitk"
-					],
-					[
-						"Git ",
-						"Git: Diff Tool All"
-					],
-					[
-						"git diff",
-						"git: diff"
-					],
-					[
-						"git c",
-						"git: checkout"
-					],
-					[
-						"git g",
-						"git: graph"
-					],
-					[
-						"gitk",
-						"Preferences: GitSavvy Key Bindings"
-					],
-					[
-						"git log ",
-						"git: log current file"
-					],
-					[
-						"git log",
-						"git: generate changelog"
-					],
-					[
-						"git lo",
-						"git: log"
-					],
-					[
-						"git in",
-						"git: init"
-					],
-					[
-						"git re",
-						"git: reflog"
-					],
-					[
-						"diff",
-						"git: diff current file (cached)"
-					],
-					[
-						"GIT Q",
-						"git: quick stage current file and commit"
-					],
-					[
-						"SHOW ",
-						"git: show current file at commit"
-					],
-					[
-						"git diff ",
-						"git: diff current file"
-					],
-					[
-						"git co",
-						"git: commit"
-					],
-					[
-						"git q",
-						"git: quick stage"
-					],
-					[
-						"git qi",
-						"git: quick stage"
-					],
-					[
-						"git init",
-						"git: init"
-					],
-					[
-						"git add",
-						"github: add fork as remote"
-					],
-					[
-						"git comm",
-						"git: commit"
-					],
-					[
-						"Package Control: i",
-						"Package Control: Install Package"
-					],
-					[
-						"in",
-						"Package Control: Install Package"
-					],
-					[
-						"git",
-						"Set Syntax: Git Log"
-					],
-					[
-						"instal ",
-						"Package Control: Install Package"
-					]
 				],
 				"width": 0.0
 			},
 			"console":
 			{
-				"height": 175.0,
+				"height": 157.0,
 				"history":
 				[
-					"sublime.log_commands(True)",
-					"sublime.log_console(True)",
-					"sublime.log_commands(True)",
-					"sublime.log_commands(False)",
-					"sublime.log_commands(True)",
-					"Y",
-					"git init",
-					"sublime.log_commands(False)",
-					"sublime.log_command(False)",
-					"sublime.log_commands(False)",
-					"sublime.log_commands(True)",
-					"subplime.log_commands(True)",
-					"sublime.log_commands(False)",
-					"sublime.log_commands(True)",
-					"sublime.log_commads(True)"
 				]
 			},
 			"distraction_free":
@@ -325,36 +47,15 @@
 			},
 			"file_history":
 			[
-				"/C/Users/Наиль Шакиров/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
-				"/C/Users/Наиль Шакиров/AppData/Roaming/Sublime Text 3/Packages/GitSavvy/Default.sublime-keymap",
-				"/C/Users/Наиль Шакиров/AppData/Roaming/Sublime Text 3/Packages/GitSavvy/Default (Windows).sublime-keymap",
-				"/C/Users/Наиль Шакиров/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
-				"/C/Users/Наиль Шакиров/Desktop/Новая папка (8)/New.txt",
-				"/C/Users/Наиль Шакиров/Desktop/My first Site/index.html",
-				"/C/Users/Наиль Шакиров/Desktop/Python37-32 - Ярлык.lnk",
-				"/C/Users/Наиль Шакиров/Desktop/Новая папка (8)/Новый текстовый документ.txt",
-				"/C/Users/Наиль Шакиров/Desktop/Новая папка (5)/Новая папка/.git/COMMIT_EDITMSG",
-				"/C/Users/Наиль Шакиров/Documents/GitHub/joplin/.git/refs/remotes/origin/HEAD",
-				"/C/Users/Наиль Шакиров/Documents/GitHub/Новая папка/joplin/.git/refs/remotes/origin/HEAD",
-				"/C/Users/Наиль Шакиров/Documents/GitHub/Новая папка/joplin/.git/logs/HEAD",
-				"/C/Users/Наиль Шакиров/Desktop/Новая папка (3)/55.txt",
-				"/C/iii/one/.git/COMMIT_EDITMSG",
-				"/C/Users/Наиль Шакиров/Desktop/Киномонстр/Git for Sublime/33.txt",
-				"/C/Users/Наиль Шакиров/Desktop/Киномонстр/Git for Sublime/Новый.txt",
-				"/C/Users/Наиль Шакиров/Desktop/Киномонстр/Git for Sublime/Первое.txt",
-				"/C/Users/Наиль Шакиров/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
-				"/C/Users/Наиль Шакиров/AppData/Roaming/Sublime Text 3/Packages/User/Git.sublime-settings",
-				"/C/Users/Наиль Шакиров/Desktop/Киномонстр/Git начало/Second file.txt",
-				"/C/Users/Наиль Шакиров/Desktop/Киномонстр/Git начало/.git/COMMIT_EDITMSG",
-				"/C/Users/Наиль Шакиров/Desktop/Киномонстр/Git начало/First git file.txt",
-				"/C/Users/Наиль Шакиров/Desktop/Киномонстр/New.py",
-				"/C/Users/Наиль Шакиров/Desktop/Киномонстр/Git начало/Новый текстовый документ.txt",
-				"/C/Users/Наиль Шакиров/Desktop/Киномонстр/F.py",
-				"/C/Users/Наиль Шакиров/AppData/Roaming/Sublime Text 3/Packages/User/python3.sublime-build"
+				"/C/Users/Наиль/Documents/SQL Server Management Studio/.git/config",
+				"/C/Users/Наиль/Documents/XML/.git/config",
+				"/C/Users/Наиль/Documents/SQL Server Management Studio/Собеседования/Sovcombank/Тест.sql",
+				"/C/Users/Наиль/Documents/SQL Server Management Studio/Скрипты для обучения/Последовательности.sql",
+				"/C/Users/Наиль/AppData/Roaming/Sublime Text 3/.git/config"
 			],
 			"find":
 			{
-				"height": 27.0
+				"height": 0.0
 			},
 			"find_in_files":
 			{
@@ -384,45 +85,21 @@
 			},
 			"incremental_find":
 			{
-				"height": 27.0
+				"height": 0.0
 			},
 			"input":
 			{
-				"height": 39.0
+				"height": 0.0
 			},
 			"menu_visible": true,
-			"output.GitSavvy":
-			{
-				"height": 135.0
-			},
-			"output.exec":
-			{
-				"height": 126.0
-			},
 			"output.find_results":
 			{
 				"height": 0.0
 			},
-			"output.git":
-			{
-				"height": 126.0
-			},
-			"output.git-push":
-			{
-				"height": 225.0
-			},
-			"output.show_commit_info":
-			{
-				"height": 347.0
-			},
-			"output.unsaved_changes":
-			{
-				"height": 193.0
-			},
 			"pinned_build_system": "",
 			"replace":
 			{
-				"height": 50.0
+				"height": 0.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -453,17 +130,16 @@
 				"width": 0.0
 			},
 			"show_minimap": true,
-			"show_open_files": true,
+			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 197.0,
+			"side_bar_width": 150.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
-				"max_columns": 1
 			}
 		},
-		"new_window_width": 1416.0
+		"new_window_width": 1015.33333333
 	},
 	"windows":
 	[
@@ -472,48 +148,24 @@
 			{
 				"selected_items":
 				[
-					[
-						"background",
-						"background-color\tproperty"
-					],
-					[
-						"font",
-						"font-size\tproperty"
-					],
-					[
-						"l",
-						"link\tTag"
-					],
-					[
-						"st",
-						"style\tTag"
-					],
-					[
-						"h",
-						"h2\tTag"
-					],
-					[
-						"me",
-						"meta\tTag"
-					]
 				]
 			},
 			"buffers":
 			[
 				{
-					"file": "/C/Users/Наиль Шакиров/Desktop/My first Site/index.html",
+					"contents": "a=5\nprint (5)",
 					"settings":
 					{
-						"buffer_size": 2117,
-						"encoding": "UTF-8",
-						"line_ending": "Windows"
+						"buffer_size": 13,
+						"line_ending": "Windows",
+						"name": "a=5"
 					}
 				},
 				{
-					"file": "/C/Users/Наиль Шакиров/Desktop/My first Site/style.css",
+					"file": "/C/Users/Наиль/Documents/SQL Server Management Studio/Запросы.sql",
 					"settings":
 					{
-						"buffer_size": 99,
+						"buffer_size": 1060,
 						"encoding": "UTF-8",
 						"line_ending": "Windows"
 					}
@@ -522,22 +174,6 @@
 			"build_system": "",
 			"build_system_choices":
 			[
-				[
-					[
-						[
-							"Packages/Python/Python.sublime-build",
-							""
-						],
-						[
-							"Packages/Python/Python.sublime-build",
-							"Syntax Check"
-						]
-					],
-					[
-						"Packages/Python/Python.sublime-build",
-						""
-					]
-				]
 			],
 			"build_varint": "",
 			"command_palette":
@@ -546,261 +182,14 @@
 				"last_filter": "",
 				"selected_items":
 				[
-					[
-						"git add",
-						"git: quick stage current file and amend"
-					],
-					[
-						"git pu",
-						"git: push to branch name"
-					],
-					[
-						"git pus",
-						"git: push"
-					],
-					[
-						"git st",
-						"git: status"
-					],
-					[
-						"git p",
-						"git: push"
-					],
-					[
-						"git satt",
-						"git: status"
-					],
-					[
-						"git push",
-						"git: push"
-					],
-					[
-						"remote ",
-						"Git: Remote"
-					],
-					[
-						"git: st",
-						"git: status"
-					],
-					[
-						"git: pu",
-						"git: push"
-					],
-					[
-						"git: p",
-						"Git: Push"
-					],
-					[
-						"git savvy",
-						"Preferences: GitSavvy Settings"
-					],
-					[
-						"gitsav",
-						"GitSavvy: view recorded log"
-					],
-					[
-						"gitsa",
-						"GitSavvy: enable logging"
-					],
-					[
-						"gitS",
-						"GitSavvy: enable logging"
-					],
-					[
-						"git ",
-						"Git: Pull"
-					],
-					[
-						"git P",
-						"Git: Push"
-					],
-					[
-						"Package Control: in",
-						"Package Control: Install Package"
-					],
-					[
-						"Package Control: ins",
-						"Package Control: Install Package"
-					],
-					[
-						"gits",
-						"GitSavvy: view recorded log"
-					],
-					[
-						"git h",
-						"git: push"
-					],
-					[
-						"gitsavvy ",
-						"GitSavvy: enable logging"
-					],
-					[
-						"git b",
-						"git: branch"
-					],
-					[
-						"git remo",
-						"git: remote add"
-					],
-					[
-						"git s",
-						"git: status"
-					],
-					[
-						"git pull",
-						"git: pull"
-					],
-					[
-						"get push",
-						"git: push to existing branch"
-					],
-					[
-						"git i",
-						"git: init"
-					],
-					[
-						"git pul",
-						"git: pull from branch"
-					],
-					[
-						"git merge",
-						"git: merge"
-					],
-					[
-						"git me",
-						"git: merge"
-					],
-					[
-						"git qu",
-						"git: quick stage current file and commit"
-					],
-					[
-						"Package Control: re",
-						"Package Control: Remove Package"
-					],
-					[
-						"git gitk",
-						"Git: Gitk"
-					],
-					[
-						"Gitk",
-						"Git: Gitk"
-					],
-					[
-						"Git ",
-						"Git: Diff Tool All"
-					],
-					[
-						"git diff",
-						"git: diff"
-					],
-					[
-						"git c",
-						"git: checkout"
-					],
-					[
-						"git g",
-						"git: graph"
-					],
-					[
-						"gitk",
-						"Preferences: GitSavvy Key Bindings"
-					],
-					[
-						"git log ",
-						"git: log current file"
-					],
-					[
-						"git log",
-						"git: generate changelog"
-					],
-					[
-						"git lo",
-						"git: log"
-					],
-					[
-						"git in",
-						"git: init"
-					],
-					[
-						"git re",
-						"git: reflog"
-					],
-					[
-						"diff",
-						"git: diff current file (cached)"
-					],
-					[
-						"GIT Q",
-						"git: quick stage current file and commit"
-					],
-					[
-						"SHOW ",
-						"git: show current file at commit"
-					],
-					[
-						"git diff ",
-						"git: diff current file"
-					],
-					[
-						"git co",
-						"git: commit"
-					],
-					[
-						"git q",
-						"git: quick stage"
-					],
-					[
-						"git qi",
-						"git: quick stage"
-					],
-					[
-						"git init",
-						"git: init"
-					],
-					[
-						"git comm",
-						"git: commit"
-					],
-					[
-						"Package Control: i",
-						"Package Control: Install Package"
-					],
-					[
-						"in",
-						"Package Control: Install Package"
-					],
-					[
-						"git",
-						"Set Syntax: Git Log"
-					],
-					[
-						"instal ",
-						"Package Control: Install Package"
-					]
 				],
 				"width": 0.0
 			},
 			"console":
 			{
-				"height": 175.0,
+				"height": 157.0,
 				"history":
 				[
-					"sublime.log_commands(True)",
-					"sublime.log_console(True)",
-					"sublime.log_commands(True)",
-					"sublime.log_commands(False)",
-					"sublime.log_commands(True)",
-					"Y",
-					"git init",
-					"sublime.log_commands(False)",
-					"sublime.log_command(False)",
-					"sublime.log_commands(False)",
-					"sublime.log_commands(True)",
-					"subplime.log_commands(True)",
-					"sublime.log_commands(False)",
-					"sublime.log_commands(True)",
-					"sublime.log_commads(True)"
 				]
 			},
 			"distraction_free":
@@ -812,46 +201,17 @@
 				"side_bar_visible": false,
 				"status_bar_visible": false
 			},
-			"expanded_folders":
-			[
-				"/C/Users/Наиль Шакиров/Desktop/My first Site"
-			],
 			"file_history":
 			[
-				"/C/Users/Наиль Шакиров/Desktop/My first Site/.git/refs/remotes/origin/master",
-				"/C/Users/Наиль Шакиров/Desktop/My first Site/style.css",
-				"/C/Users/Наиль Шакиров/Desktop/My first Site/.git/refs/heads/master",
-				"/C/Users/Наиль Шакиров/Desktop/My first Site/.git/MERGE_MSG",
-				"/C/Users/Наиль Шакиров/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
-				"/C/Users/Наиль Шакиров/AppData/Roaming/Sublime Text 3/Packages/GitSavvy/Default.sublime-keymap",
-				"/C/Users/Наиль Шакиров/AppData/Roaming/Sublime Text 3/Packages/GitSavvy/Default (Windows).sublime-keymap",
-				"/C/Users/Наиль Шакиров/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
-				"/C/Users/Наиль Шакиров/Desktop/Новая папка (8)/New.txt",
-				"/C/Users/Наиль Шакиров/Desktop/My first Site/index.html",
-				"/C/Users/Наиль Шакиров/Desktop/Python37-32 - Ярлык.lnk",
-				"/C/Users/Наиль Шакиров/Desktop/Новая папка (8)/Новый текстовый документ.txt",
-				"/C/Users/Наиль Шакиров/Desktop/Новая папка (5)/Новая папка/.git/COMMIT_EDITMSG",
-				"/C/Users/Наиль Шакиров/Documents/GitHub/joplin/.git/refs/remotes/origin/HEAD",
-				"/C/Users/Наиль Шакиров/Documents/GitHub/Новая папка/joplin/.git/refs/remotes/origin/HEAD",
-				"/C/Users/Наиль Шакиров/Documents/GitHub/Новая папка/joplin/.git/logs/HEAD",
-				"/C/Users/Наиль Шакиров/Desktop/Новая папка (3)/55.txt",
-				"/C/iii/one/.git/COMMIT_EDITMSG",
-				"/C/Users/Наиль Шакиров/Desktop/Киномонстр/Git for Sublime/33.txt",
-				"/C/Users/Наиль Шакиров/Desktop/Киномонстр/Git for Sublime/Новый.txt",
-				"/C/Users/Наиль Шакиров/Desktop/Киномонстр/Git for Sublime/Первое.txt",
-				"/C/Users/Наиль Шакиров/AppData/Roaming/Sublime Text 3/Packages/Git/Git.sublime-settings",
-				"/C/Users/Наиль Шакиров/AppData/Roaming/Sublime Text 3/Packages/User/Git.sublime-settings",
-				"/C/Users/Наиль Шакиров/Desktop/Киномонстр/Git начало/Second file.txt",
-				"/C/Users/Наиль Шакиров/Desktop/Киномонстр/Git начало/.git/COMMIT_EDITMSG",
-				"/C/Users/Наиль Шакиров/Desktop/Киномонстр/Git начало/First git file.txt",
-				"/C/Users/Наиль Шакиров/Desktop/Киномонстр/New.py",
-				"/C/Users/Наиль Шакиров/Desktop/Киномонстр/Git начало/Новый текстовый документ.txt",
-				"/C/Users/Наиль Шакиров/Desktop/Киномонстр/F.py",
-				"/C/Users/Наиль Шакиров/AppData/Roaming/Sublime Text 3/Packages/User/python3.sublime-build"
+				"/C/Users/Наиль/Documents/SQL Server Management Studio/.git/config",
+				"/C/Users/Наиль/Documents/XML/.git/config",
+				"/C/Users/Наиль/Documents/SQL Server Management Studio/Собеседования/Sovcombank/Тест.sql",
+				"/C/Users/Наиль/Documents/SQL Server Management Studio/Скрипты для обучения/Последовательности.sql",
+				"/C/Users/Наиль/AppData/Roaming/Sublime Text 3/.git/config"
 			],
 			"find":
 			{
-				"height": 27.0
+				"height": 0.0
 			},
 			"find_in_files":
 			{
@@ -879,12 +239,6 @@
 				"whole_word": false,
 				"wrap": true
 			},
-			"folders":
-			[
-				{
-					"path": "C:\\Users\\Наиль Шакиров\\Desktop\\My first Site"
-				}
-			],
 			"groups":
 			[
 				{
@@ -893,27 +247,24 @@
 					[
 						{
 							"buffer": 0,
-							"file": "/C/Users/Наиль Шакиров/Desktop/My first Site/index.html",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 2117,
+								"buffer_size": 13,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										410,
-										410
+										13,
+										13
 									]
 								],
 								"settings":
 								{
-									"git_savvy.file_path": "C:\\Users\\Наиль Шакиров\\Desktop\\My first Site\\index.html",
-									"git_savvy.repo_path": "C:\\Users\\Наиль Шакиров\\Desktop\\My first Site",
-									"syntax": "Packages/HTML/HTML.sublime-syntax",
-									"translate_tabs_to_spaces": false
+									"auto_name": "a=5",
+									"syntax": "Packages/Text/Plain text.tmLanguage"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -924,26 +275,25 @@
 						},
 						{
 							"buffer": 1,
-							"file": "/C/Users/Наиль Шакиров/Desktop/My first Site/style.css",
+							"file": "/C/Users/Наиль/Documents/SQL Server Management Studio/Запросы.sql",
 							"semi_transient": false,
 							"settings":
 							{
-								"buffer_size": 99,
+								"buffer_size": 1060,
 								"regions":
 								{
 								},
 								"selection":
 								[
 									[
-										0,
-										99
+										8,
+										8
 									]
 								],
 								"settings":
 								{
-									"git_savvy.file_path": "C:\\Users\\Наиль Шакиров\\Desktop\\My first Site\\style.css",
-									"git_savvy.repo_path": "C:\\Users\\Наиль Шакиров\\Desktop\\My first Site",
-									"syntax": "Packages/CSS/CSS.sublime-syntax"
+									"git_savvy.repo_path": "C:\\Users\\Наиль\\Documents\\SQL Server Management Studio",
+									"syntax": "Packages/SQL/SQL.sublime-syntax"
 								},
 								"translation.x": 0.0,
 								"translation.y": 0.0,
@@ -957,11 +307,11 @@
 			],
 			"incremental_find":
 			{
-				"height": 27.0
+				"height": 0.0
 			},
 			"input":
 			{
-				"height": 39.0
+				"height": 0.0
 			},
 			"layout":
 			{
@@ -986,40 +336,16 @@
 				]
 			},
 			"menu_visible": true,
-			"output.GitSavvy":
-			{
-				"height": 135.0
-			},
-			"output.exec":
-			{
-				"height": 126.0
-			},
 			"output.find_results":
 			{
 				"height": 0.0
 			},
-			"output.git":
-			{
-				"height": 126.0
-			},
-			"output.git-push":
-			{
-				"height": 225.0
-			},
-			"output.show_commit_info":
-			{
-				"height": 347.0
-			},
-			"output.unsaved_changes":
-			{
-				"height": 193.0
-			},
 			"pinned_build_system": "",
-			"position": "0,0,1,-32000,-32000,-1,-1,878,368,236,1800",
+			"position": "0,0,1,-1,-1,-1,-1,579,103,17,1133",
 			"project": "",
 			"replace":
 			{
-				"height": 50.0
+				"height": 0.0
 			},
 			"save_all_on_build": true,
 			"select_file":
@@ -1052,27 +378,17 @@
 			"selected_group": 0,
 			"settings":
 			{
-				"last_automatic_layout":
-				[
-					[
-						0,
-						0,
-						1,
-						1
-					]
-				]
 			},
 			"show_minimap": true,
-			"show_open_files": true,
+			"show_open_files": false,
 			"show_tabs": true,
 			"side_bar_visible": true,
-			"side_bar_width": 197.0,
+			"side_bar_width": 150.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
-				"max_columns": 1
 			},
-			"window_id": 53,
+			"window_id": 1,
 			"workspace_name": ""
 		}
 	],
